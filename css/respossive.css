@@ -1,0 +1,531 @@
+@media (max-width: 992px) {
+
+.download_left img {
+    width: 100%;
+}
+.single_choice_text p {
+    font-size: 13px;
+    line-height: 23px;
+}
+.all_triptext h2 {
+    font-size: 12px;
+}
+.free_collection .fa {
+    margin: 0px 4px 0px 0px;
+}	
+.free_collection {
+    margin-top: 15px;
+}
+.royal_valance_view {
+    margin-top: 0px;
+}
+.free_collection {
+    margin-top: 9px;
+}
+.royal_valance_view {
+    margin-left: -15px;
+}
+#mynav ul li a {
+    font-size: 14px;
+}
+
+}
+@media(min-width:768px) and (max-width:991px) {
+
+.container {
+	max-width: 960px;
+}
+.nav-pills .nav-link.active, .show > .nav-pills .nav-link {
+    color: #fff;
+	background:transparent;
+}
+
+.login_register a {
+    font-size: 14px;
+}
+#mynav ul li a {
+    font-size: 14px;
+    padding: 14px 7px;
+}
+.logo a {
+    font-size: 23px;
+}
+.slider_left {
+    padding-top: 0px;
+}
+.back_back {
+    margin-top: 20px;
+}
+.slider_area .slider{
+	height:500px!important;
+}
+.core_top_text p {
+    padding: 0px 80px 0px 80px;
+    font-size: 14px;
+}
+.top_deals_bottom h3 {
+    font-size: 17px;
+}
+.top_deals_bottom p {
+    font-size: 15px;
+    margin-bottom: 25px;
+}
+.top_deals_btn a {
+    height: 44px;
+    width: 113px;
+    line-height: 50px;
+}
+.work_top_text p {
+    padding: 0px 80px 0px 80px;
+    font-size: 14px;
+}
+.single_getting_started {
+    padding: 23px 20px 34px 22px;
+    margin-bottom: 30px;
+}
+.tour_the_world {
+    margin-top: 30px;
+}
+.tour_gallery_top_text p {
+    padding: 0px 80px 0px 80px;
+    font-size: 14px;
+}
+.download_left h2 {
+    margin-top: 25px;
+}
+.app_btn a {
+    width: 172px;
+}
+.download_left img {
+    width: 100%;
+    margin-top: 100px;
+}
+.all_triptext h2 {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+.free_collection {
+    margin-top: 70px;
+}
+.royal_search_btn {
+    margin-top: 77px;
+}
+.royal_valance_view {
+    text-align: right;
+}
+#mynav ul li a {
+    font-size: 14px;
+    padding: 14px 7px;
+}
+#mynav{
+	background: linear-gradient(-45deg, #43E447 10%, #04DFAF 100%);
+}
+.slider_left h2 {
+    font-size: 24px;
+}
+.email {
+    margin-bottom: 17px;
+}
+.all_text {
+    padding-top: 43px;
+}
+.slider_left {
+    padding-top: 109px;
+}
+#particles-js{
+	height:500px!important;
+}
+
+}
+
+@media(min-width:576px) and (max-width:767px){
+	
+.container {
+	max-width: 960px;
+}
+.nav-pills .nav-link.active, .show > .nav-pills .nav-link {
+    color: #fff;
+	background:transparent;
+}
+
+button:focus{
+	outline:0;
+}
+.login_register a {
+    font-size: 14px;
+}
+#mynav ul li a {
+    font-size: 14px;
+    padding: 14px 7px;
+}
+#mynav{
+	background: linear-gradient(-45deg, #43E447 10%, #04DFAF 100%);
+}
+.slider_area .slider{
+	height:600px!important;
+}
+.back_back {
+    margin-top: 0px;
+}
+.slider_left {
+    padding-top: 150px;
+}
+.slider_left h2 {
+    font-size: 35px;;
+}
+.medium_none{
+	display:none;
+}
+.medium_device{
+	display:block;
+}
+.tooop{
+	margin-bottom:20px;
+}
+.core_top_text p {
+    padding: 0px 10px 0px 10px;
+    font-size: 14px;
+}
+.single_choice_text p {
+    font-size: 10px;
+    line-height: 22px;
+}
+.eurosia_single_counter {
+    margin-bottom: 30px;
+}
+.eurosia_counter_area {
+    padding: 0px 0px 60px 0px;
+}
+.top_deals_right {
+    margin-top: 40px;
+	text-align:center;
+}
+.top_deals_bottom p {
+	 font-size: 14px;
+    margin-bottom: 30px;
+}
+.work_top_text p {
+    padding: 0px 10px 0px 10px;
+    font-size: 14px;
+}
+.single_getting_started {
+    margin-bottom: 30px;
+}
+.single_started_text h5 {
+    font-size: 15px;
+}
+.plan_Trip_full_text h2 {
+    font-size: 23px;
+}
+.trip_full_btn a {
+    font-size: 14px;
+	width:170px;
+}
+.tour_gallery_top_text p {
+    padding: 0px 10px 0px 10px;
+    font-size: 14px;
+}
+.single_recomanded_hover h2 {
+    font-size: 12px;
+}
+.single_recomanded_hover {
+    margin-bottom: 0px;
+}
+.booking_now {
+    margin-top: 5px;
+}
+.single_recomanded_hover a {
+    font-size: 13px;
+    height: 32px;
+    width: 117px;
+    line-height: 32px;
+    font-size: 12px;
+}
+.single_choice_text h2 {
+    font-size: 17px;
+}
+.read_more_service a {
+    height: 37px;
+    width: 106px;
+    line-height: 37px;
+    font-size: 14px;
+}
+.download_left img{
+	display:none;
+}
+.download_left h2 {
+    margin-top: 0px;
+}
+.free_collection {
+    margin-top: 37px;
+}
+.royal_valance_view {
+    text-align: right;
+}
+.slider_img {
+	position:absolute;
+	top:0;
+}
+.all_text {
+    padding-top: 89px;
+}
+.slider_left{
+	
+}
+#particles-js{
+	display:none;
+}
+
+	
+}
+
+@media(max-width:575px){
+	
+.container {
+	max-width: 960px;
+}
+.nav-pills .nav-link.active, .show > .nav-pills .nav-link {
+    color: #fff;
+	background:transparent;
+}
+
+button:focus{
+	outline:0;
+}
+.login_register a {
+    font-size: 14px;
+}
+#mynav ul li a {
+    font-size: 14px;
+    padding: 14px 7px;
+}
+#mynav{
+	background: linear-gradient(-45deg, #43E447 10%, #04DFAF 100%);
+}
+.slider_area .slider{
+	height:500px!important;
+}
+.back_back {
+    margin-top: 0px;
+}
+.slider_left {
+    padding-top: 0px;
+}
+.slider_left h2 {
+    font-size: 35px;
+}
+.medium_none{
+	display:none;
+}
+.medium_device{
+	display:block;
+}
+.tooop{
+	margin-bottom:20px;
+}
+.slider_left h2 {
+    font-size: 20px;
+}
+.all_text {
+    padding-top: 83px;
+}
+.serach_btn a {
+    height: 36px;
+    width: 103px;
+    line-height: 36px;
+    font-size: 14px;
+}
+.core_top_text p {
+    padding: 0px 0px 0px 0px;
+    font-size: 14px;
+    line-height: 24px;
+}
+.single_choice_icon .fa {
+    height: 70px;
+    width: 70px;
+    line-height: 70px;
+    font-size: 23px;
+}
+.single_choice_text p {
+    font-size: 14px;
+    line-height: 24px;
+}
+.read_more_service a {
+    height: 35px;
+    width: 107px;
+    line-height: 35px;
+}
+.eurosia_single_counter {
+    margin-bottom: 30px;
+}
+.eurosia_counter_area {
+    padding: 0px 0px 60px 0px;
+}
+.top_deals_right {
+    margin-top: 40px;
+}
+.top_deals_bottom h3 {
+    font-size: 14px;
+}
+.top_deals_bottom p {
+    font-size: 14px;
+    line-height: 24px;
+}
+.top_deals_btn a {
+    height: 40px;
+    width: 113px;
+    line-height: 40px;
+}
+.top_deals_bottom p {
+    margin-bottom: 35px;
+}
+.work_top_text h2 {
+    font-size: 19px;
+}
+.work_top_text p {
+    padding: 0px 0px 0px 0px;
+    font-size: 14px;
+    line-height: 24px;
+}
+.single_getting_started {
+    margin-bottom: 30px;
+}
+.tour_the_world {
+    margin-top: 20px;
+}
+.tour_the_world a {
+    height: 44px;
+    width: 130px;
+    line-height: 44px;
+    font-size: 15px;
+}
+.plan_Trip_full_text h2 {
+    font-size: 20px;
+    line-height: 30px;
+}
+.trip_full_btn a {
+    height: 40px;
+    line-height: 40px;
+    width: 165px;
+    border-radius: 10px;
+    font-size: 15px;
+}
+.tour_gallery_top_text h2 {
+    font-size: 18px;
+}
+.tour_gallery_top_text p {
+    padding: 0px 0px 0px 0px;
+    font-size: 14px;
+    line-height: 24px;
+}
+.single_recomanded_hover h2 {
+    line-height: 21px;
+    font-size: 13px;
+}
+.single_recomanded_hover {
+    margin-bottom: 0px;
+}
+.rocomanded_top_date {
+    margin-top: 15px;
+}
+.single_choice_text p {
+    font-size: 12px;
+    line-height: 22px;
+}
+.download_left h2 {
+    margin-top: 20px;
+}
+.download_left img {
+    display: none;
+}
+.app_btn a {
+    height: 40px;
+    line-height: 40px;
+    width: 121px;
+    border-radius: 10px;
+    margin: 0px 6px;
+    font-size: 12px;
+}
+.testimonial_top_text h2 {
+    font-size: 28px;
+}
+.all_review p{
+	font-size:13px;
+	line-height:23px;
+}
+.partner_area {
+    padding: 70px 0px 70px 0px;
+}
+.letter_btn {
+    height: 50px;
+    border-radius: 37px;
+    width: 118px;
+}
+.change_input {
+    height: 50px;
+    padding: 23px;
+    margin-top: 50px;
+}
+.letter_top_text h2 {
+    font-size: 28px;
+}
+.social_top_text h2 {
+    font-size: 28px;
+}
+.footer_top_area {
+    padding: 50px 0px 0px 0px;
+}
+.resort_hotel_serach {
+    margin-top: 0px;
+    padding: 20px 0px 20px 0px;
+}
+.single_footer_top{
+	text-align:center;
+}
+.all_footer{
+	text-align:center;
+}
+.free_collection {
+    text-align: center;
+}
+.all_trip_text_bottom p {
+    text-align: center;
+}
+.all_triptext h2 {
+    text-align: center;
+	font-size: 15px;
+}
+.all_triptext {
+    margin-top: 20px;
+    margin-left: 15px;
+}
+.royal_search_btn {
+    margin-top: 0px;
+}
+.royal_valance_view {
+    margin-left: 15px;
+    text-align: center;
+    margin-top: 17px;
+}
+.slider_img img{
+	width:100%;
+}
+.slider_img {
+	position:absolute;
+	top:0;
+}
+.all_text {
+    padding-top: 89px;
+}
+.slider_left{
+	
+}
+#particles-js{
+	display:none;
+}
+.slider_left {
+    padding-top: 66px;
+}
+	
+	
+}

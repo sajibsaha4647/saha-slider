@@ -1,0 +1,250 @@
+/*
+
+Template Name:  dewsnow - HTML Template
+Author: themeszoon
+Version: 1.00
+
+Table of Content
+----------------
+1.start header area 
+2.start slider area
+3.start service area
+4.start counter area
+5.start top deals area
+6.start how it works area
+7.start plan trip area
+8.start tour gallery area
+9.start trip package area
+10.start all care value area
+11.start download app area
+12.start testimonial area
+13.start partner area
+14.start news letter area
+15.start social icon area
+16.start fooer  area
+
+
+*/
+
+/* start basic css */
+@import url('https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Righteous') ; 
+*{
+	margin:0;
+	padding:0;
+}
+ul,ol{
+	list-style:none;
+}
+a{
+	text-decoration:none;
+}
+p{
+	margin-top:0;
+	margin-bottom:0;
+}
+h1,h2,h3,h4,h5,h6{
+	margin-top:0;
+	margin-bottom:0;
+}
+button:focus{
+	cursor:pointer;
+	outline:0;
+}
+
+body{
+	font-family: 'Raleway', sans-serif;
+}
+/* end  basic css */
+
+/* start header area */
+.header_area{
+	background:red;
+}
+.logo{}
+.icon_bar{}
+#mynav{}
+#mynav ul{}
+#mynav ul li{}
+#mynav ul li a{
+	color:#fff;
+}
+.login_register{}
+.border_border{}
+.{}
+.{}
+.{}
+.{}
+/* end header area */
+
+/* start slider area */
+.slider_area{}
+.slider{}
+.slider_iteam{}
+.{}
+.{}
+.{}
+.{}
+.{}
+/* end slider area */
+
+/* start aboutus area */
+.about_us_area{
+	padding:80px 0px 80px 0px;
+}
+.about_area{}
+.about_us_left{}
+.about_us_right{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+/* end aboutus area */
+
+/* start history area */
+.history_area{
+	padding:0px 0px 80px 0px;
+}
+.history{}
+.history_top_text{}
+.single_history{}
+.singel_image_history{}
+.all_history{}
+.{}
+.{}
+.{}
+.{}
+/* end history area */
+
+/* start gallery area */
+.gallery_area{
+	padding:0px 0px 80px 0px;
+}
+.gallery_top_text{}
+.single_gallery{}
+.single_gallery_img{}
+.single_gallery_text{}
+.{}
+.{}
+.{}
+.{}
+/* end gallery area */
+
+/* start video area */
+.video_area{
+	padding:0px 0px 80px 0px;
+}
+.video{}
+.single_video{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+/* end video area */
+
+/* start instuction area */
+.instruction_area{
+	padding:0px 0px 80px 0px;
+}
+.instruction{}
+.accordion {
+  margin: 0 auto 100px;
+}
+.accordion li {
+  position: relative;
+}
+.accordion li p {
+  display: none;
+  padding: 10px 25px 30px;
+  color: #000;
+}
+.accordion a {
+  width: 100%;
+  display: block;
+  cursor: pointer;
+  font-weight: 600;
+  line-height: 3;
+  font-size: 14px;
+  text-indent: 15px;
+  font-size: 16px;
+	text-transform: uppercase;
+	color: #373737;
+}
+.accordion_back{
+	background: #fff;
+	box-shadow: 0 0 20px 0px #ddd;
+	margin-bottom:10px;
+}
+.accordion a:after {
+  width: 8px;
+  height: 8px;
+  border-right: 1px solid #7E60D9;
+  border-bottom: 1px solid #7E60D9;
+  position: absolute;
+  right: 10px;
+  content: " ";
+  top: 17px;
+  transform: rotate(-45deg);
+  -webkit-transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+}
+
+.accordion p {
+  font-size: 15px;
+  line-height: 2;
+  padding: 10px;
+}
+
+a.active:after {
+  transform: rotate(45deg);
+  -webkit-transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+}
+.instruction_right{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+/* end instuction area */
+
+/* start foooter top area */
+.footer_top_area{
+	padding:0px 0px 80px 0px;
+}
+.footer_top{}
+.footer_top_text{}
+.follow_us{}
+.all_socila_icon{}
+.{}
+.{}
+.{}
+.{}
+.{}
+/* end foooter top area */
+
+/* start footer area */
+.footer_area{}
+.footer{}
+.single_footer_left{}
+.singlefooter_right{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+/* end footer area */
